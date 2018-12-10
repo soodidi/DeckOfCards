@@ -1,3 +1,9 @@
+To run the web application, please first run `npm install` then `npm start`.
+
+To run the test, please `npm test`.
+
+## Basic Commands
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
