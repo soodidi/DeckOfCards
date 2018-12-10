@@ -1,6 +1,6 @@
 To run the web application, please first run `npm install` then `npm start`.
 
-To run the test, please `npm test`.
+To run the test, please run `npm test`.
 
 ## Basic Commands
 
